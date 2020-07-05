@@ -1,2 +1,2 @@
-var myFirstName = "Ian";
-var myLastName = "Turner";
+const myFirstName = 'Ian';
+const myLastName = 'Turner';

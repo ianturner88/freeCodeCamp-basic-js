@@ -3,10 +3,11 @@
 
 // Setup
 function testEqual(val) {
-    if (val== 12)  { // Change this line
-      return "Equal";
-    }
-    return "Not Equal";
+  if (val == 12) {
+    // Change this line
+    return 'Equal';
   }
-  
-  testEqual(10);
+  return 'Not Equal';
+}
+
+testEqual(10);

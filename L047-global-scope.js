@@ -1,5 +1,5 @@
-var myGlobal = 10;
+const myGlobal = 10;
 
 function fun1() {
-    oopsGlobal = 5;
+  oopsGlobal = 5;
 }

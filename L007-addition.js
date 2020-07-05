@@ -1,1 +1,1 @@
-var sum = 10 + 10;
+const sum = 10 + 10;

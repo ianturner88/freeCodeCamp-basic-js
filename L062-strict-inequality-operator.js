@@ -1,10 +1,10 @@
 // Setup
 function testStrictNotEqual(val) {
-    if (val !== 17) { // Change this line
-      return "Not Equal";
-    }
-    return "Equal";
+  if (val !== 17) {
+    // Change this line
+    return 'Not Equal';
   }
-  
-  testStrictNotEqual(10);
-  
+  return 'Equal';
+}
+
+testStrictNotEqual(10);

@@ -6,6 +6,6 @@ the result is NaN -> Not a number */
 /* if you concatenate a string with an undefined variable,
 you get a literal string of 'undefined' */
 
-var a = 5;
-var b = 10;
-var c = "I am a";
+const a = 5;
+const b = 10;
+const c = 'I am a';

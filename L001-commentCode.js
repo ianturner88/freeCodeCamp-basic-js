@@ -1,6 +1,6 @@
 // declare variables
-let variable = 5
+const variable = 5;
 
 /* multi - 
 line comment */
-let var2 = 7;
+const var2 = 7;

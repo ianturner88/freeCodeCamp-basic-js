@@ -1,1 +1,1 @@
-var product = 8 * 10;
+const product = 8 * 10;

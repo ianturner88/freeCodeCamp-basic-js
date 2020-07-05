@@ -1,2 +1,2 @@
-var myName = 'Ian';
-var myStr = "My name is " + myName + " and I am well!";
+const myName = 'Ian';
+const myStr = `My name is ${myName} and I am well!`;

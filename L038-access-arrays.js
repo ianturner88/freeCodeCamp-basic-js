@@ -1,5 +1,5 @@
 // Setup
-var myArray = [50,60,70];
+const myArray = [50, 60, 70];
 
 // Only change code below this line
-var myData = myArray[0];
+const myData = myArray[0];

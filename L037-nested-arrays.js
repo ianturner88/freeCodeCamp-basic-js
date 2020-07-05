@@ -1,2 +1,5 @@
 // Only change code below this line
-var myArray = [['test', 9], ['Toronto', 4]];
+const myArray = [
+  ['test', 9],
+  ['Toronto', 4],
+];

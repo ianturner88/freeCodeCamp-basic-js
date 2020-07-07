@@ -1,4 +1,4 @@
-var count = 0;
+let count = 0;
 
 function cc(card) {
   // Only change code below this line
@@ -8,7 +8,7 @@ function cc(card) {
     case 3:
     case 4:
     case 5:
-      case 6:
+    case 6:
       count++;
       break;
 
@@ -26,7 +26,7 @@ function cc(card) {
     holdbet = 'Bet';
   }
 
-  return count + " " + holdbet;
+  return `${count} ${holdbet}`;
   // Only change code above this line
 }
 
